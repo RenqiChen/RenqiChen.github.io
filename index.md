@@ -4,19 +4,17 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Hello! I’m Renqi Chen and I’m currently pursuing my M.Sc. in Computer Science and Technology at Fudan University and looking forward to graduating in June 2026. Before this, I earned my B.Eng. in Communication Engineering from Southern University of Science and Technology (SUSTech). My current research interest lie in Neural Architecture Search (NAS).
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Vision:** image segmentation, neural architecture search
+- **Communication Technology:** passive sensing, millimeter wave
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[July. 2023]** Our paper “Indoor Human Trajectory Reconstruction via Multi-link mmWave Passive Sensing System” is accepted to ICCC 2023.
+- **[June. 2023]** I am awarded the Summa Cum Laude Graduates by Southern University of Science and Technology.
 
 {% include_relative _includes/publications.md %}
 
