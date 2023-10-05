@@ -6,11 +6,11 @@ main:
     conference: IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2023.
     pdf: https://arxiv.org/abs/2309.04672
     notes: Preprint, under review
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/structure - v8.0.jpg
 
   - title: "Indoor Human Trajectory Reconstruction via Multi-link mmWave Passive Sensing System"
     authors: <strong>Renqi Chen</strong>
     conference_short: ICCC 2023
     conference: IEEE/CIC International Conference on Communications in China <strong>(ICCC)</strong>, 2023.
     pdf: https://ieeexplore.ieee.org/abstract/document/10233603/
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/system_model_detail.jpg
