@@ -2,7 +2,7 @@ main:
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Renqi Chen</strong>, Jingjing Luo, Fan Nian, Yuhui Cen, Yiheng Peng, Zekuan Yu
-    conference_short: ICASSP
+    conference_short: ICASSP 2023
     conference: IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2023.
     pdf: https://arxiv.org/abs/2309.04672
     notes: Preprint, under review
