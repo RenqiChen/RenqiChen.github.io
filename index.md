@@ -18,4 +18,6 @@ Hello! I’m Renqi Chen and I’m currently pursuing my M.Sc. in Computer Scienc
 
 {% include_relative _includes/publications.md %}
 
+{% include_relative _includes/honors.md %}
+
 {% include_relative _includes/services.md %}
