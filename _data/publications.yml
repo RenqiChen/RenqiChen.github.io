@@ -1,6 +1,14 @@
 main:
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
+  - title: "Passive Handwriting Tracking via Weak mmWave Communication Signals"
+    authors: Chao Yu, Yan Luo, <strong>Renqi Chen</strong>, Rui Wang
+    conference_short: ICASSP 2023
+    conference: IEEE Wireless Communications Letters, 2023.
+    pdf: https://ieeexplore.ieee.org/abstract/document/10379434
+    # notes: Preprint, under review
+    image: ./assets/img/structure - v8.0.jpg
+    
+  - title: "SSHNN: Semi-Supervised Hybrid NAS Network for Echocardiographic Image Segmentation"
     authors: <strong>Renqi Chen</strong>, Jingjing Luo, Fan Nian, Yuhui Cen, Yiheng Peng, Zekuan Yu
     conference_short: ICASSP 2023
     conference: IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2023.
