@@ -3,7 +3,7 @@ main:
   - title: "Passive Respiration Detection via mmWave Communication Signal Under Interference"
     authors: Kehan Wu*, <strong>Renqi Chen*</strong>, Haiyu Wang, Chenqing Ji, Jiayuan Zhu, Guang Wu
     conference_short: WCNC 2024
-    conference: IEEE Wireless Communications and Networking Conference, 2024.
+    conference: IEEE Wireless Communications and Networking Conference <strong>(WCNC)</strong>, 2024.
     pdf: https://arxiv.org/abs/2310.03297
     # notes: Preprint, under review
     image: ./assets/img/wcnc.png
@@ -11,7 +11,7 @@ main:
   - title: "Passive Handwriting Tracking via Weak mmWave Communication Signals"
     authors: Chao Yu, Yan Luo, <strong>Renqi Chen</strong>, Rui Wang
     conference_short: ICASSP 2023
-    conference: IEEE Wireless Communications Letters, 2023.
+    conference: IEEE Wireless Communications Letters <strong>(WCL)</strong>, 2023.
     pdf: https://ieeexplore.ieee.org/abstract/document/10379434
     # notes: Preprint, under review
     image: ./assets/img/wcl.png
