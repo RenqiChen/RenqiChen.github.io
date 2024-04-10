@@ -6,7 +6,7 @@ main:
     conference: IEEE Wireless Communications Letters, 2023.
     pdf: https://ieeexplore.ieee.org/abstract/document/10379434
     # notes: Preprint, under review
-    image: ./assets/img/structure - v8.0.jpg
+    image: ./assets/img/wcl.png
     
   - title: "SSHNN: Semi-Supervised Hybrid NAS Network for Echocardiographic Image Segmentation"
     authors: <strong>Renqi Chen</strong>, Jingjing Luo, Fan Nian, Yuhui Cen, Yiheng Peng, Zekuan Yu
